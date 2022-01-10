@@ -1,4 +1,6 @@
 # Cisco UCS Inventory Script
+
+### Find demo report at https://imtinity94-s-organization.github.io/Cisco-UCS-Inventory-Script/
 The UCS Inventory Script (UIS) is a PowerTool script that retrieves the full configuration of an UCS Manager (or multiple) and displays it in a very readable and portable HTML file for offline use. It also includes some configuration recommendations that come from experience implementing FlexPods. **Disclaimer**: These recommendations are not official recommendations from Cisco, but taken from experience from the field.
 
 I wrote this script to get an easy overview of UCS installations after completing the initial build. To answer basic questions like “How many port licenses do we have left?” or “Did we create VLAN X?” – when you have no easy connectivity to the management console.
